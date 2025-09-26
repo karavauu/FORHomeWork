@@ -82,11 +82,12 @@ public class Main {
 //        System.out.printf("Количество положительных чисел: %d ", counter);
 
 
-        //6
+
 //        int num = sc.nextInt();
 //        for (long i = 1; i <= num; i++) {
-//            System.out.print( (int) Math.pow(2, i) + " ");
+//            sb.append((int) Math.pow(2, i) + " ");
 //        }
+//        System.out.println(sb);
 
 
         //7
